@@ -1,5 +1,3 @@
-# Install Instructions
-
 1. Copying JS Code
 Copy the below JS code:
     
